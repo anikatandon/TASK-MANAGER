@@ -1,4 +1,4 @@
-**To-Do List Application**
+**To-Do List**
 
 This is a feature-rich To-Do List application built using **Node.js**, **Express.js**, **MongoDB**, and **EJS templating engine**. It allows users to create, update, and delete tasks, as well as organize them into different lists. The application provides a user-friendly interface where tasks can be easily managed and tracked. Additionally, it offers the ability to create custom pages for personalized task management.
 
